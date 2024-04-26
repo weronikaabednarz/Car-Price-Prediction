@@ -15,3 +15,4 @@ Technologies used in the project are Jupyter Notebook & Python with imports:
     - from sklearn.model_selection import train_test_split
     - from sklearn.preprocessing import StandardScaler
     - from sklearn.metrics import r2_score
+  
