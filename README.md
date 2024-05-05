@@ -19,3 +19,6 @@ Technologies used in the project are Jupyter Notebook & Python with imports:
 Dataset from kaggle: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho 
 ![1](https://github.com/weronikaabednarz/Car-Price-Prediction/blob/main/images/data.jpg)
 
+Results of individual models tabulated:
+![2](https://github.com/weronikaabednarz/Car-Price-Prediction/blob/main/images/wyniki.jpg)
+
