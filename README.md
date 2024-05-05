@@ -14,13 +14,13 @@ Technologies used in the project are Jupyter Notebook & Python with imports:
 - plotly.express - to create interactive data visualisations,
 - tensorflow as tf - to create and train machine learning models,
 
-    - from PIL import Image                                       # do manipulacji obrazkami
-    - from google.colab import files                              # moduł, który umożliwia interakcję z plikami w Google Colab.                                     #
-    - from tensorflow.keras.models import Sequential              # klasa, która pozwala na tworzenie sekwencyjnych modeli sieci neuronowych
-    - from tensorflow.keras.layers import Dense, Dropout          # warstwy, używane do budowy modeli sieci neuronowych
-    - from sklearn.model_selection import train_test_split        # funkcja, która dzieli dane na zbiory treningowe i testowe.
-    - from sklearn.preprocessing import StandardScaler            # normalizuje cechy poprzez usunięcie średniej i skalowanie do jednostkowej wariancji, do standaryzacji danych
-    - from sklearn.metrics import r2_score     
+    - from PIL import Image - to manipulate images,
+    - from google.colab import files - a module to interact with files in Google Colab,
+    - from tensorflow.keras.models import Sequential - a class that allows you to create sequential neural network models,
+    - from tensorflow.keras.layers import Dense, Dropout - layers, used to build neural network models,
+    - from sklearn.model_selection import train_test_split - a function that splits the data into training and test sets,
+    - from sklearn.preprocessing import StandardScaler - normalises features by removing the mean and scaling to a unit variance, to standardise the data,
+    - from sklearn.metrics import r2_score - a function that calculates the coefficient of determination R^2, to assess model performance.
  
 Dataset from kaggle: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho 
 ![1](https://github.com/weronikaabednarz/Car-Price-Prediction/blob/main/images/data.jpg)
