@@ -10,15 +10,17 @@ Technologies used in the project are Jupyter Notebook & Python with imports:
 - matplotlib - a module for creating graphs,
 - seaborn - a data visualisation tool that complements the functionality of Matplotlib,
 - os - allows interaction with the operating system, such as access to files and directories,
-- warnings -
-- plotly.express -
-- from google.colab import files
-- tensorflow - 
-    - from tensorflow.keras.models import Sequential
-    - from tensorflow.keras.layers import Dense, Dropout
-    - from sklearn.model_selection import train_test_split
-    - from sklearn.preprocessing import StandardScaler
-    - from sklearn.metrics import r2_score
+- warnings - to control the warnings displayed by the Python interpreter,
+- plotly.express - to create interactive data visualisations,
+- tensorflow as tf - to create and train machine learning models,
+
+    - from PIL import Image                                       # do manipulacji obrazkami
+    - from google.colab import files                              # moduł, który umożliwia interakcję z plikami w Google Colab.                                     #
+    - from tensorflow.keras.models import Sequential              # klasa, która pozwala na tworzenie sekwencyjnych modeli sieci neuronowych
+    - from tensorflow.keras.layers import Dense, Dropout          # warstwy, używane do budowy modeli sieci neuronowych
+    - from sklearn.model_selection import train_test_split        # funkcja, która dzieli dane na zbiory treningowe i testowe.
+    - from sklearn.preprocessing import StandardScaler            # normalizuje cechy poprzez usunięcie średniej i skalowanie do jednostkowej wariancji, do standaryzacji danych
+    - from sklearn.metrics import r2_score     
  
 Dataset from kaggle: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho 
 ![1](https://github.com/weronikaabednarz/Car-Price-Prediction/blob/main/images/data.jpg)
