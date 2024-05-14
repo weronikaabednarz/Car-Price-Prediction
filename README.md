@@ -21,7 +21,7 @@ Technologies used in the project are Jupyter Notebook & Python with imports:
     - from sklearn.model_selection import train_test_split - a function that splits the data into training and test sets,
     - from sklearn.preprocessing import StandardScaler - normalises features by removing the mean and scaling to a unit variance, to standardise the data,
     - from sklearn.metrics import r2_score - a function that calculates the coefficient of determination R^2, to assess model performance.
- 
+    
 Dataset from kaggle: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho 
 ![1](https://github.com/weronikaabednarz/Car-Price-Prediction/blob/main/images/data.jpg)
 
