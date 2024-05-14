@@ -1,5 +1,5 @@
 # Car Price Prediction
- 
+
 The data for the project ‘Used car price prediction.’ collect information on vehicles available on the Polish market.
 They contain various characteristics and details that can significantly affect their value, such as: name, year, selling price, number of kilometres driven, fuel, type of seller, gearbox, owner.
 Used car price analysis can be very helpful in various contexts, for example in determining the market value of vehicles, predicting prices, making investment decisions and analysing trends in the used car market.
